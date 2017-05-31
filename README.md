@@ -1,8 +1,14 @@
-    # QuizeApp  https://mrkem598.github.io/TriviaGame/
+  
+ # QuizeApp
+ 
+ Follow this link to go to the github website==> https://mrkem598.github.io/TriviaGame/
+      
     
     
     An app that can prepare for US Naturalization  interview questions. This app was made in support of immigrant to USA, improve the naturalization score rate and inlarge helping the United States citizenship and immigration services(USCIS) in achiving it's goal.
+    
     Technologies Used:
+    
           > HTML 5
           > CSS3
           > JavaScript
