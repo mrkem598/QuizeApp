@@ -3,10 +3,10 @@
  
  Follow this link to go to the github website==> https://mrkem598.github.io/TriviaGame/
       
-    USCIS Quiz (Trivia) app is a scalable and fully responsive single page application developed with self initiative for preparation of the United States Citizenship questions. The app had been effective in preparing individuals for USCIS interview in a very interactive and memorable way. The app which is now being used by the community was released in its first iteration by deploying it in to Heroku platform as a service. The product backlog has been analyzed and re-prioritized to add the next set of functionality for the next sprint.
+  # USCIS Quiz (Trivia) app is a scalable and fully responsive single page application developed with self initiative for preparation of the United States Citizenship questions. The app had been effective in preparing individuals for USCIS interview in a very interactive and memorable way. The app which is now being used by the community was released in its first iteration by deploying it in to Heroku platform as a service. The product backlog has been analyzed and re-prioritized to add the next set of functionality for the next sprint.
     
     
-    An app that can prepare for US Naturalization  interview questions. This app was made in support of immigrant to USA, improve the naturalization score rate and inlarge helping the United States citizenship and immigration services(USCIS) in achiving it's goal.
+   ## An app that can prepare for US Naturalization  interview questions. This app was made in support of immigrant to USA, improve the naturalization score rate and inlarge helping the United States citizenship and immigration services(USCIS) in achiving it's goal.
     
     Technologies Used:
     
