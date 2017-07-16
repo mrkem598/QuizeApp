@@ -1,7 +1,7 @@
   
  # QuizeApp
- [![Quize](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bevacqua/awesome-badges)
-[![practice](https://badginator.herokuapp.com/bevacqua/awesome-badges.svg)](https://github.com/defunctzombie/badginator)
+ [![Quize](https://mrkem598.github.io/TriviaGame/)](https://github.com/bevacqua/awesome-badges)
+[![practice](https://mrkem598.github.io/TriviaGame/)](https://github.com/defunctzombie/badginator)
 [![USA](https://travis-ci.org/bevacqua/awesome-badges.svg?branch=master)](https://travis-ci.org/bevacqua/awesome-badges)
 [![pRACTICE](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  Follow this link to go to the github website==> https://mrkem598.github.io/TriviaGame/
